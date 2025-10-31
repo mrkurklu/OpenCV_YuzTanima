@@ -1,1 +1,4 @@
-# OpenCV_Y-zTanima
+# OpenCV_YuzTanima
+
+Ali Emir Kürklü
+240542003 
